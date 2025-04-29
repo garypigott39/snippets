@@ -1,0 +1,7 @@
+cep427.extract:
+  path: '/cep427/extract'
+  defaults:
+    _controller: '\Drupal\cep427\Controller\ExtractController::extract'
+    _title: 'CEP427 Market tables extract'
+  requirements:
+    _permission: 'access content'

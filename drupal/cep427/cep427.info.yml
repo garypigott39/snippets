@@ -1,0 +1,8 @@
+name: 'One-off data extraction'
+type: module
+description: '1-off data extraction from Drupal, see CEP-427 for details'
+core_version_requirement: ^9 || ^10
+package: Custom
+dependencies:
+  - drupal:node
+  - drupal:taxonomy
