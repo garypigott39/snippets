@@ -1,1 +1,3 @@
 Assorted code snippets, including Drupal
+
+This would generally be for code that wasnt anywhere else...
